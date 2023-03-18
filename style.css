@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 124px;
+    background: linear-gradient(1.02deg, #FFFFFF -17.21%, rgba(74, 153, 211, 0) 75.91%), #FC0B0D;    
+    opacity: 0.2;
+    width: auto;
+}
+
+
+.logo{
+    position: absolute;
+    left: 238px;
+    top: 32px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #4A99D3;
+}
+
+
+.user{
+    position: absolute;
+    margin-left: 938px;
+    margin-top: -85px;
+}
+
+.register{
+    position: absolute;
+    margin-top: -72px;
+    margin-left: 1002px;
+    color: #0F001A;
+    text-decoration:  none;
+    size: 18px;
+}
+
+.addbtn{
+    position: absolute;
+    width: 58px;
+    height: 40px;
+    right: 167.69px;
+    top: 40px; 
+    
+}
+
+.sell {
+    position: absolute;
+    margin-left: 1380px;
+    margin-top: -75px;
+}
+
+section{
+    position: absolute;
+    height: 364.78px;
+    width: 1297px;
+    top: 124px;
+    left: 73px;
+    background: #EAF6FF;
+}
+
+
+.text{
+    position: absolute;
+    width: 503px;
+    left: 150px;
+    top: 60px;
+    font-size: 33px;
+}
+
+.img{
+    position: absolute;
+width: 436px;
+height: 382px;
+left: 780px;
+top: 55px;
+}
+
+.searchbar{
+    position: absolute;
+    display: flex;
+    margin-top: 170px;
+    margin-left: 100px;
+    width: 100%;
+    max-width: 575px;
+    height: 69px;
+    align-items: center;
+    padding: 10px 20px;
+    border-color: red;
+    border: 2px solid #FC0B0D;
+    border-radius: 20px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.searchbar input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    font-size: 16px;   
+}
+
+::placeholder{
+    color: #004B84;
+}
+
+.searchbutton{
+    position: absolute;
+    width: 66.09px;
+    height: 30.21px;
+    left: 50px;
+    top: 20px;
+}
+
+.button{
+    position: absolute;
+    height: 30px;
+    left: 380px;
+    top: 20px;
+    width: 300px;
+}
+
+.card1{
+    position: absolute;
+    height: 303px;
+    left: 70px;
+    top: 592px;
+    background: #FAFAFA;
+    box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 626px;
+}
+
+.usednew{
+    position: absolute;
+    left: 45px;
+    top: 41px;
+    font-weight: 600;
+    font-size: 29.65px;
+    align-items: center;
+}
+
+.lorem{
+    position: absolute;
+    width: 279px;
+    height: 100px;
+    left: 28px;
+    top: 69px;
+    font-size: 20.65px;
+    display: flex;
+    align-items: center;
+}
+
+.cardimg1{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.viewmore1{
+    position: absolute;
+    height: 48px;
+    left: 86px;
+    top: 228px;
+    background: #FC0B0D;
+    border-radius: 10px;
+    border: none;
+    width: 153px;
+}
