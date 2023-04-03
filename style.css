@@ -53,12 +53,12 @@ header{
     margin-top: -75px;
 }
 
-section{
+.navmenu{
     position: absolute;
     height: 364.78px;
     width: 1297px;
     top: 124px;
-    left: 73px;
+    left: 100px;
     background: #EAF6FF;
 }
 
@@ -172,3 +172,241 @@ top: 55px;
     border: none;
     width: 153px;
 }
+
+.viewmore{
+    color: #000000;
+    font-weight: 500;
+    font-size: 20.65px;
+}
+
+.card2{
+    position: absolute;
+width: 626px;
+height: 303px;
+left: 744px;
+top: 592px;
+
+background: #FAFAFA;
+box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+
+
+.Services{
+    position: absolute;
+    left: 93px;
+    top: 46px;
+    font-weight: 600;
+    font-size: 29.65px;
+    line-height: 36px;
+}
+
+/* cards */
+
+.box{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.card{
+    position: relative;
+    height: 370px;
+    left: 25px;
+    top: 900px;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 12px rgba(0, 0, 0, 0.25);
+    width: 308px;
+    margin: 21px;
+}
+
+.textinbox{
+    position: relative;
+    height: 100px;
+    left: 50px;
+    font-size: 24px;
+}
+
+.price{
+    position: absolute;
+    left: 50px;
+    top: 270px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #EB3223;
+}
+
+.description{
+    position: absolute;
+    left: 50px;
+    top: 326px;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.data {
+    position: absolute;
+    left: 240px;
+    top: 330px;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.tag {
+    position: absolute;
+    width: 40px;
+    height: 16px;
+    left: 240px;
+    top: 275px;
+    background: #F12B2C;
+    border-radius: 4px;
+}
+
+.laptopphoto{
+   margin-left: -4px
+}
+
+.tablephoto{
+    margin-top: -38px;
+}
+
+.vans{
+    margin-top: -70px;
+}
+
+.line{
+    position: absolute;
+    left: 69px;
+    top: 2412.81px;
+    border: 2px solid #E5E5E5;
+    width: 524px;
+}
+
+.line2{
+    position: absolute;
+    width: 580px;
+    left: 842px;
+    top: 2413.81px;
+    border: 2px solid #E5E5E5;
+    border: 2px solid #E5E5E5;
+}
+
+.linetext {
+       position: absolute;
+       font-size: 29.8267px;
+       display: flex;
+       align-items: center;
+       border: 1px solid #FC0B0D;
+       border-radius: 14.4439px;
+       width: 221px;
+       height: 70.25px;
+       left: 607px;
+       top: 2378px;
+       padding-left: 40px;
+}
+
+
+
+
+/* footer */
+
+.container2{
+    position: relative;
+    left: 0px;
+    width:100% ;
+    height: 300px;
+    top: 1200px;
+    background: #EAF6FF;
+}
+.tittle1{
+    position: absolute;
+    width: 283px;
+    height: 58px;
+    top: 60px;
+    left: 71px;
+}
+.footertxt{
+    position: absolute;
+    width: 610px;
+    height: 110px;
+    left: 71px;
+    top: 110px;
+    color: rgba(80, 74, 65, 1);
+}
+.contact{
+    position: absolute;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    left: 859px;
+    top: 57px;
+}
+.call{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 890px;
+    text-align: center;
+    top: 87px;
+}
+.call1{
+    position: absolute;
+    white-space: 143px;
+    height: 22px;
+    left: 920px;
+    top: 87px;
+}
+.message{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 890px;
+    top: 125px;
+}
+.message1{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 920px;
+    top: 125px;
+}
+.location{
+    position: absolute;
+    width: 18px;
+    height: 22px;
+    left: 890px;
+    top: 160px;
+}
+.location1{
+    position: absolute;
+    width: 18px;
+    height: 22px;
+    left: 920px;
+    top: 160px;
+}
+.about{
+    position: absolute;
+    white-space: 118px;
+    height: 30px;
+    left: 1190px;
+    top: 52px;
+}
+.sup{
+    position: absolute;
+    width: 74px;
+    height: 22px;
+    left: 1190px;
+    top: 87px;
+}
+.privacy{
+    position: absolute;
+    width: 74px;
+    height: 22px;
+    left: 1190px;
+    top: 125px;
+}
+
